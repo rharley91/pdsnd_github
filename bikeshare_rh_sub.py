@@ -165,10 +165,8 @@ def user_stats(df):
         gender = df['Gender']
         gender_count = gender.value_counts()
         print('Gender Distribution:\n{}'.format(gender_count))
-        print()
     else:
         print('Gender data is not available')
-        print()
 
 
     # Display earliest, most recent, and most common year of birth
