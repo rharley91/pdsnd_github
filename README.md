@@ -5,7 +5,7 @@ This project was created on the 1st of May 2020
 Udacity Bike Share Project
 
 ### Description
-This is the second project of the Programming for Data Science with Python :snake: course. 
+This is the second project of the Programming for Data Science with Python :snake: course.
 The project required us to create a terminal application to show specific data on bike share information from three cities (Chicago, New York and Washington).
 
 ### Files used
@@ -29,3 +29,6 @@ https://pandas.pydata.org/docs/user_guide/index.html -used to search for functio
 Jupiter web browser note book - to test smaller sections of code
 
 https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column" - trouble shooting query when results looked incorrect.
+
+### Bugs
+No **known** bugs 
